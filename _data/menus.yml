@@ -1,0 +1,21 @@
+main:
+  - name: "Bayes Ağları"
+    url: "/services/"
+    weight: 2
+  - name: "Takım"
+    url: "/team/"
+    weight: 3
+  - name: "Hakkında"
+    url: "/about/"
+    weight: 4
+  - name: "Bağlantılar"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Anasayfa"
+    url: "/"
+    weight: 1
+  - name: "Hakkında"
+    url: "/about/"
+    weight: 2

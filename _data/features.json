@@ -1,0 +1,29 @@
+[
+  {
+    "title": "HSBÖ Arayüzü",
+    "description": "Klinik çalışmalar ve uygulamalar için kullanım kolaylığı sağlayan ve açıklayıcı arayüzleri.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Bayes Ağları",
+    "description": "Klinik karar destekçileri için Bayes Ağı modelleri.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Hesaplamalı Klinometrikler",
+    "description": "Makine Öğrenmesi ve Uzman sistemleri için klinik ve istatistiksel bilgiler.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
