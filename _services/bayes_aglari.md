@@ -13,8 +13,6 @@ BA’da herhangi bir grup değişkene değer girildiğinde, diğer bilinmeyen de
 
 Olasılıklar çıkarım algoritmalar HBSÖ’ler için kullanışlıdır. BA olarak modellenmiş bir HBSÖ’de herhangi bir soru kümesine değer girildiğinde, diğer soruların ve gizli faktörlerin sonsal dağılımları hesaplanabilir. BA’lar bilgiye, veriye veya bu ikisinin birleşimine dayanarak yapılabilir. BA yapısı bilgiye dayalı şekilde yapıldığında, modeldeki oklar konu hakkındaki neden-sonuç ilişkilerine göre belirlenir. BA’ları tamamen veriden öğrenmek için yapı öğrenme algoritmaları bulunmaktadır. Bu algoritmalar skor-bazlı, kısıt-bazlı ve melez algoritmalar olmak üzere üç gruba ayrılmaktadır. Skor bazlı algoritmalar, modelin veriye uyumunu ödüllendiren, model karmaşıklığını cezalandıran, regüle edilmiş skorları optimize eden yapıyı bulmayı amaçlar (Games vd., 2011). Bayes bilgi kriteri gibi skorlar bu amaca uygundur. Kısıt-bazlı algoritmalar veriye koşullu bağımsızlığı tespit etmek için istatistiksel testler uygular ve tespit edilen koşullu bağımsızlıklara uyumlu BA yapısını öğrenir (Le vd., 2019). Melez algoritmalar, skor-bazlı ve kısıt-bazlı prensipleri birleştirir. Örneğin, max-min tırmanma algoritması kısıt-bazlı testler uygulayarak modelin grafiksel yapısını yönsüz olarak bulur, daha sonra skor-bazlı tırmanma algoritması kullanarak yönleri belirlemeyi amaçlar (Tsamardinos vd., 2006).
 
-__*To read the English version of the post, click [here](/services/bayesian-networks/).*__
-
 # Kaynaklar
 
 - Pearl, J. 1988. "Probabilistic Reasoning in Intelligent Systems". Morgan Kaufmann.
