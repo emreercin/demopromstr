@@ -1,5 +1,5 @@
 ---
-title: Projects/Projeler
+title: Bayes Ağları
 layout: services
 description: Projects/Projeler
 intro_image: "images/illustrations/doctor-man.svg"
