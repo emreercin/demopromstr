@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Bayes Ağları
 
-Aşağıda DEMOPROMS projesinin detaylarını, amaçlarını ve çıktılarını görebilirsiniz. Ekip projeyi ilerlettikçe buradaki sayfaların sayısı artacaktır. Bizi izlemeye devam edin.
+Aşağıda DEMOPROMS projesinin detaylarını, amaçlarını ve çıktılarını görebilirsiniz. Ekip projeyi ilerlettikçe buradaki sayfaların sayısı artacaktır.
