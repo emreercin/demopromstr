@@ -11,8 +11,8 @@ main:
   - name: "Bağlantılar"
     url: "/contact/"
     weight: 5
-  - name: "En"
-    url: "emreercin.github.io/demoproms"
+  - name: "English Version"
+    url: "https://emreercin.github.io/demoproms"
     weight: 6
 
 footer:
